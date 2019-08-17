@@ -1,0 +1,9 @@
+int main() {
+	while(1) {
+		doesLove(you);
+	}
+}
+
+doesLove(String str) {
+	printf("I love %s!", str);
+}
